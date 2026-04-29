@@ -26,7 +26,7 @@ project/
 │   └── processed/          # Cleaned and structured data
 │
 ├── scripts/
-│   ├── code             # GraphSAGE implementation, Clustering and evaluation scripts, Risk score computation, visualization scripts
+│   ├── travel_advisories.py             # GraphSAGE implementation, Clustering and evaluation scripts, Risk score computation, visualization scripts
 │   
 │
 │

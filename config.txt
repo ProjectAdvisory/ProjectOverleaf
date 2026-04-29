@@ -1,0 +1,83 @@
+# =========================
+# General
+# =========================
+seed: 42
+output_dir: results/
+
+# =========================
+# Data
+# =========================
+data:
+  raw_path: data/raw/
+  processed_path: data/processed/
+  country_column: country
+  features: []   # list feature names if applicable
+
+# =========================
+# Graph Construction
+# =========================
+graph:
+  directed: false
+  normalize: true
+
+# =========================
+# GraphSAGE Model
+# =========================
+model:
+  type: graphsage
+  input_dim: 64          # adjust to your data
+  hidden_dim: 128
+  output_dim: 64
+  num_layers: 2
+  aggregation: mean      # mean / max / sum
+  activation: relu
+
+# =========================
+# Training (if applicable)
+# =========================
+training:
+  epochs: 50
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  batch_size: 32
+
+# =========================
+# Clustering
+# =========================
+clustering:
+  method: kmeans
+  k_min: 2
+  k_max: 10
+  selected_k: 4          # final choice
+  init: k-means++
+  n_init: 10
+  max_iter: 300
+
+# =========================
+# Evaluation Metrics
+# =========================
+evaluation:
+  metrics:
+    - silhouette
+    - calinski_harabasz
+    - elbow
+
+# =========================
+# Risk Scoring
+# =========================
+risk:
+  weighting: uniform     # or "learned" if using alpha_t
+  normalize: true
+
+# =========================
+# Visualization
+# =========================
+visualization:
+  umap:
+    n_neighbors: 15
+    min_dist: 0.1
+    n_components: 2
+
+  choropleth:
+    colormap: viridis
+    normalize: true

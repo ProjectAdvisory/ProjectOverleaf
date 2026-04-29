@@ -1,0 +1,213 @@
+﻿Country,Cluster,Risk Gradient
+Afghanistan,3,0.452797
+Albania,0,0.254181
+Algeria,3,0.452797
+Andorra,2,0.085577
+Angola,0,0.254181
+Anguilla,2,0.085577
+Antarctica,1,0.232601
+Antigua and Barbuda,2,0.085577
+Argentina,0,0.254181
+Armenia,1,0.232601
+Aruba,2,0.085577
+Australia,2,0.085577
+Austria,2,0.085577
+Azerbaijan,1,0.232601
+Bahrain,1,0.232601
+Bangladesh,3,0.452797
+Barbados,2,0.085577
+Belarus,3,0.452797
+Belgium,1,0.232601
+Belize,0,0.254181
+Benin,3,0.452797
+Bermuda,2,0.085577
+Bhutan,2,0.085577
+Bolivia,0,0.254181
+Bonaire,2,0.085577
+Bosnia and Herzegovina,1,0.232601
+Botswana,0,0.254181
+Brazil,2,0.085577
+British Virgin Islands,2,0.085577
+Brunei,2,0.085577
+Bulgaria,2,0.085577
+Burkina Faso,3,0.452797
+Burundi,3,0.452797
+Cabo Verde,0,0.254181
+Cambodia,0,0.254181
+Cameroon,3,0.452797
+Canada,2,0.085577
+Cayman Islands,2,0.085577
+Central African Republic,3,0.452797
+Chad,3,0.452797
+Chile,0,0.254181
+China,1,0.232601
+Colombia,3,0.452797
+Comoros,0,0.254181
+Costa Rica,0,0.254181
+Croatia,2,0.085577
+Cuba,0,0.254181
+Curaçao,2,0.085577
+Cyprus,1,0.232601
+Czechia,2,0.085577
+Democratic Republic of the Congo,3,0.452797
+Denmark,1,0.232601
+Djibouti,1,0.232601
+Dominica,2,0.085577
+Dominican Republic,0,0.254181
+Ecuador,3,0.452797
+Egypt,1,0.232601
+El Salvador,2,0.085577
+Equatorial Guinea,0,0.254181
+Eritrea,1,0.232601
+Estonia,2,0.085577
+Eswatini,0,0.254181
+Ethiopia,3,0.452797
+Federated States of Micronesia,2,0.085577
+Fiji,2,0.085577
+Finland,2,0.085577
+France,1,0.232601
+French Guiana,2,0.085577
+French Polynesia,2,0.085577
+French West Indies,2,0.085577
+Gabon,0,0.254181
+Georgia,3,0.452797
+Germany,1,0.232601
+Ghana,0,0.254181
+Greece,2,0.085577
+Greenland,1,0.232601
+Grenada,2,0.085577
+Guatemala,0,0.254181
+Guinea,0,0.254181
+Guinea-Bissau,0,0.254181
+Guyana,0,0.254181
+Haiti,3,0.452797
+Honduras,0,0.254181
+Hong Kong,1,0.232601
+Hungary,2,0.085577
+Iceland,2,0.085577
+India,3,0.452797
+Indonesia,1,0.232601
+Iran,3,0.452797
+Iraq,3,0.452797
+Ireland,2,0.085577
+"Israel, the West Bank, and Gaza",3,0.452797
+Italy,1,0.232601
+Ivory Coast,3,0.452797
+Jamaica,0,0.254181
+Japan,2,0.085577
+Jordan,1,0.232601
+Kazakhstan,2,0.085577
+Kenya,3,0.452797
+Kiribati,2,0.085577
+Kosovo,1,0.232601
+Kuwait,0,0.254181
+Kyrgyzstan,1,0.232601
+Laos,0,0.254181
+Latvia,2,0.085577
+Lebanon,3,0.452797
+Lesotho,1,0.232601
+Liberia,0,0.254181
+Libya,3,0.452797
+Liechtenstein,2,0.085577
+Lithuania,2,0.085577
+Luxembourg,2,0.085577
+Macau,1,0.232601
+Madagascar,0,0.254181
+Malawi,0,0.254181
+Malaysia,2,0.085577
+Maldives,1,0.232601
+Mali,3,0.452797
+Malta,2,0.085577
+Marshall Islands,2,0.085577
+Mauritania,3,0.452797
+Mauritius,2,0.085577
+Mexico,0,0.254181
+Moldova,1,0.232601
+Mongolia,2,0.085577
+Montenegro,2,0.085577
+Montserrat,2,0.085577
+Morocco,1,0.232601
+Mozambique,3,0.452797
+Myanmar,3,0.452797
+Namibia,0,0.254181
+Nauru,2,0.085577
+Nepal,0,0.254181
+Netherlands,1,0.232601
+New Caledonia,0,0.254181
+New Zealand,2,0.085577
+Nicaragua,0,0.254181
+Niger,3,0.452797
+Nigeria,3,0.452797
+North Korea,1,0.232601
+North Macedonia,2,0.085577
+Norway,2,0.085577
+Oman,1,0.232601
+Pakistan,1,0.232601
+Palau,2,0.085577
+Panama,0,0.254181
+Papua New Guinea,3,0.452797
+Paraguay,0,0.254181
+Peru,3,0.452797
+Philippines,3,0.452797
+Poland,2,0.085577
+Portugal,2,0.085577
+Qatar,2,0.085577
+Republic of the Congo,0,0.254181
+Romania,2,0.085577
+Russia,3,0.452797
+Rwanda,1,0.232601
+Saba,2,0.085577
+Saint Kitts and Nevis,2,0.085577
+Saint Lucia,2,0.085577
+Saint Vincent and the Grenadines,2,0.085577
+Samoa,2,0.085577
+Sao Tome and Principe,2,0.085577
+Saudi Arabia,1,0.232601
+Senegal,0,0.254181
+Serbia,0,0.254181
+Seychelles,2,0.085577
+Sierra Leone,0,0.254181
+Singapore,2,0.085577
+Sint Eustatius,2,0.085577
+Sint Maarten,2,0.085577
+Slovakia,2,0.085577
+Slovenia,2,0.085577
+Solomon Islands,0,0.254181
+Somalia,3,0.452797
+South Africa,3,0.452797
+South Korea,2,0.085577
+South Sudan,3,0.452797
+Spain,1,0.232601
+Sri Lanka,1,0.232601
+Sudan,3,0.452797
+Suriname,2,0.085577
+Sweden,1,0.232601
+Switzerland,2,0.085577
+Syria,3,0.452797
+Taiwan,2,0.085577
+Tajikistan,1,0.232601
+Tanzania,1,0.232601
+Thailand,2,0.085577
+The Bahamas,0,0.254181
+The Gambia,0,0.254181
+Timor-Leste,0,0.254181
+Togo,3,0.452797
+Tonga,2,0.085577
+Trinidad and Tobago,3,0.452797
+Tunisia,1,0.232601
+Turkey,1,0.232601
+Turkmenistan,2,0.085577
+Turks and Caicos Islands,0,0.254181
+Tuvalu,2,0.085577
+Uganda,3,0.452797
+Ukraine,1,0.232601
+United Arab Emirates,1,0.232601
+United Kingdom,1,0.232601
+Uruguay,0,0.254181
+Uzbekistan,2,0.085577
+Vanuatu,2,0.085577
+Venezuela,3,0.452797
+Vietnam,2,0.085577
+Yemen,3,0.452797
+Zambia,2,0.085577
+Zimbabwe,0,0.254181
